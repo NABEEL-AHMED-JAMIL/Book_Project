@@ -1,0 +1,26 @@
+<!--ok test-->
+<h1>{{name}}</h1>
+<router-outlet></router-outlet>
+
+<div class="form_div" *ngIf="book">
+    <form (ngSubmit)="onSubmit()">
+
+        <label for="name">Book Name</label><br>
+        <input type="text" name="name" [(ngModel)]="book.name" readonly><br>
+        <br>
+
+        <label for="author">Author Name</label><br>
+        <input type="text" name="author" [(ngModel)]="book.author" readonly><br>
+
+        <label for="isbn">Isbn</label><br>
+        <input type="text" name="isbn" [(ngModel)]="book.isbn" readonly><br>
+
+        <label for="no_copies">No Copies</label><br>
+        <input type="number" min="1" [(ngModel)]="book.no_copies" name="no_copies"><br>
+
+        <label for="price">Price</label><br>
+        <input type="number" min="1" [(ngModel)]="book.price" name="price"><br>
+
+        <input type="submit" value="Update">
+    </form>
+</div>

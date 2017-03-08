@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "nabeel",
+    "author": "ali",
+    "isbn": "1254-5687-66",
+    "no_copies": 1000,
+    "price": 25.08
+  },
+  {
+    "id": 2,
+    "name": "Ahmed",
+    "author": "Abdulla",
+    "isbn": "125-985-7894",
+    "no_copies": 5000,
+    "price": 150
+  },
+  {
+    "id": 3,
+    "name": "Idress",
+    "author": "xyz",
+    "isbn": "123-456-789",
+    "no_copies": 100,
+    "price": 125.059
+  }
+]
