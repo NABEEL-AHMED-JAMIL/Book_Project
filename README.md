@@ -16,3 +16,7 @@ and when project is open and run on the Browser press the F12 for check out the 
 the console is very important in the ng2 project it tell the error if have in project
 	
 More Detail can be found at https://github.com/angular/quickstart.
+
+This project is simple base on CRUD web applicatoin in whitch we used Spring mvc and jpa to handle the operation.
+In this project we can add new book , delete book , retrived all book , find the book accroding, update the book
+and also have the admin to add the new inventory into the system.
