@@ -27,3 +27,7 @@ and also have the admin to add the new inventory into the system.
 # Screen Shot also avliable in this project
 
 ![alt tag](https://github.com/NABEEL-AHMED-JAMIL/Book_Project/blob/master/Book%20Project%20image/Screenshot%20(317).png)
+![alt tag](https://github.com/NABEEL-AHMED-JAMIL/Book_Project/blob/master/Book%20Project%20image/Screenshot%20(318).png)
+#
+<h3>For more Shot follow the linke below</h3>
+https://github.com/NABEEL-AHMED-JAMIL/Book_Project/blob/master/Book%20Project%20image/
