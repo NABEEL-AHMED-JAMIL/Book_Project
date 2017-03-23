@@ -25,3 +25,5 @@ This project is simple base on CRUD web applicatoin in whitch we used Spring mvc
 In this project we can add new book , delete book , retrived all book , find the book accroding, update the book
 and also have the admin to add the new inventory into the system.
 # Screen Shot also avliable in this project
+
+![alt tag](https://github.com/NABEEL-AHMED-JAMIL/Book_Project/blob/master/Book%20Project%20image/Screenshot%20(317).png)
