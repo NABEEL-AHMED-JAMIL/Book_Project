@@ -1,4 +1,4 @@
-# Angular-2 Book Store
+# Angular-2 Book Store ----> OK
 
 A sample application to practise Angular concepts.
 #
